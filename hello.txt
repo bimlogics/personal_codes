@@ -1,8 +1,0 @@
-hi, how are you??..
-
-for recursive merge.
-
-
-for merge master
-
-merge for temop1
